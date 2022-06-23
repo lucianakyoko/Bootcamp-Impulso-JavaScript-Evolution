@@ -69,7 +69,36 @@ Competências que surgem ao utilizar o pensamento computacional:
     - Melhorar códigos e algoritmos
       - Simplificar linhas de códigos
       - Funções bem definidas
-      
+
+## Pilares: Decomposição:
+Decompor - primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+
+Estratégias:
+  - análise - processo de quebrar e determinar partes menores e gerenciáveis
+    - estudar, explorar
+    - realizar exame detalhado
+    - decompor em elementos constitíntes
+  - síntese - combinar os elementos recompondo o problema original
+    - processo de reconstrução
+    - fundir os elementos de maneira coerente
+    - consiste em reunir elementos distintos em um único elemento
+  - ordem de execução de tarefas menores
+    - sequencial - dependência entre tarefas executadas em "fila"
+    - paralelo - tarefas podem ser executadas concomitantemente
+
+Como decompor:
+  - identificar ou coletar dados
+  - agregar os dados
+  - funcionalidades
+
+Exemplo: criar um app:
+  - Definição de componentes e etapas:
+    - finalidade
+    - interface
+    - funcionalidades
+    - pré-requisitos
+  Desenvolvimento mais eficiente
+
 ---
 
 # AULA 02 - Introdução à Lógica de Programação
