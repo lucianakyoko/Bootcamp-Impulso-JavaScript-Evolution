@@ -42,7 +42,34 @@ Competências que surgem ao utilizar o pensamento computacional:
  - Colaboração dentro da equipe
  - Criatividade e design
  - Facilitador
- 
+
+
+## Habilidades complementares:
+  - Raciocínio lógico: é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar solução de um problema. É uma habilidade.
+
+  Classificação:
+    - Indução: vem a partir de um fenômeno observado (leis e teorias). É relacionado à ciências experimentais.
+    - Dedução: é o trabalho inverso da dedução. A partir de leis e teoria, se induz previsões e explicacões para determinado fenômendo. É muito utilizado em ciências exatas.
+    - Adbução: A partir de uma conclusão, se tira uma premissa. Ex. A grama está molhada, logo deve ter chovido. Lembrando que a premissa não precisa, necessariamente ser verdadeira. É muito utilizado em processo investigativo, diagnósticos.
+
+  A partir de uma inferência, temos:
+   - pensamento por sintese:
+    - abdução 
+    - indução
+   - pensamento analítico
+    - dedução
+
+
+  - Aperfeiçoamento: é o melhoramento, ato de aperfeiçoar, aprimoramento, refinamento. Sendo o objetivo, a partir de uma solução, determinar pontos de melhora e refinamento.
+
+  Ato de aperfeiçoar:
+    - Melhor uso de recursos:
+      - Encontrar solução eficiente
+      - Otimizar processos
+    - Melhorar códigos e algoritmos
+      - Simplificar linhas de códigos
+      - Funções bem definidas
+      
 ---
 
 # AULA 02 - Introdução à Lógica de Programação
