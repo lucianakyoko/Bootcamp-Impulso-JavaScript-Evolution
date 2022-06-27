@@ -99,6 +99,36 @@ Exemplo: criar um app:
     - pré-requisitos
   Desenvolvimento mais eficiente
 
+
+## Pilares: Padrões:
+Reconhecimento de padrões: similaridades e diferença
+  - modelo base
+  - estrutura invariante
+  - repetição
+
+Por que determinar padrões:
+ - generalizar, com objetivo de obter resolução para problemas diferentes
+
+O ser humano consegue determinar padrões por meio de:
+  - grau de similaridade
+  - grupos conhecidos x objeto desconhecido
+
+O computador reconhece os padrões por comparação. E para simular esse comportamento é necessário:
+  - fazer a representação de atributos para que a máquina consiga aprender através de um conceito associado ao objeto,
+  - armazenar os dados
+  - regras de decisão
+
+Aplicações:
+  - Classificaçao de dados
+  - Reconhecimento de imagem
+  - Reconhecimento de fala
+  - Análise de cenas
+  - Classificação de documentos
+
+  
+
+
+
 ---
 
 # AULA 02 - Introdução à Lógica de Programação
