@@ -159,6 +159,47 @@ estudantes:
     - tamanho do calçado
 
 
+## Pilares: Algoritmos:
+  o computador não opera sozinho e precisa de instruções detalhadas.
+
+  Processamento de dados: o computador recebe, manipula e armazena dados.
+  Instruções: processo de resolução de problemas "step by step" utilizadno instruções:
+    - o que precisa ser feito
+    - qual a orderm de execução
+  
+  O algoritmo deve ser endendido por humano e máquina.
+
+  Desenvolvimento do programa:
+    - Análise: estudo e definição dos dados de entrada e saída
+    - Algoritmo: descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo
+    - Codificação: o algoritmo é codificado de acordo com a linguagem de programação escolhida
+  
+  - sequência de passos com objetivo definido
+  - Execução de tarefas específicas
+  - Conjunto de operações que resultam em uma sucessão finita de ações
+  - Instruções executadas passo a passo para concluir a tarefa
+
+  Como construir um algoritmo:
+    - compreencção do problema - pontos mais importantes
+    - Definição de dados de entrada - dados fornecidos e cenário
+    - Definir processamento - calculos e restrições
+    - Definir dados de saída - após processamento
+    - Utilizar um método de construção - construção e refinamento do algoritmo
+    - Teste e diagnóstico
+
+  Dentro de algoritmos temos a parte de construção:
+    - narrativa: 
+      - utilização da linguagem natural
+      - sem conceitos novos
+      - diversas interpretações possíveis
+    - fluxograma:
+      - utilização de símbolos pré-definidos
+      - simples entendimento
+      - conhecimento prévio da estrutura e símbolos
+    - pseudocódigo:
+      - Portugol
+      - regras definidas
+      - passos a serem seguidos
 
 ---
 
