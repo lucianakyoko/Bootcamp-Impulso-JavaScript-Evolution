@@ -125,7 +125,38 @@ Aplicações:
   - Análise de cenas
   - Classificação de documentos
 
-  
+
+## Pilares: Abstração:
+Abstrair: observar, um ou mais elementos, avaliando caracteristicas e propriedades em separado.
+Abstração: processo intelectual de isolamento de um objeto da realidade.
+Generalizar: tornar-se geral, mais amplo, extensão.
+
+Generalização, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar os dados:
+  - características
+  - pontos essenciais
+  - generalizar x detalhar
+
+Exemplo:
+Respresentação de dados
+
+estudantes:
+ - Características:
+  - pontos essenciais:
+    - nome completo
+    - matrículo
+    - endereço
+    - campus
+    - curso
+    - telefone
+    - email
+  - detalhes:
+    - trabalho
+    - tem filhos
+    - programa preferido
+    - livro preferido
+    - tamanho do calçado
 
 
 
