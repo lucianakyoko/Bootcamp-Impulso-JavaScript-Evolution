@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { colors } from './colors';
 
 export default createGlobalStyle`
   * {
@@ -13,6 +14,7 @@ export default createGlobalStyle`
   
   body {
     font-family: 'Inter', sans-serif;
+    background-color: ${colors.primaryColor500};
   }
   li {
     list-style: none;
