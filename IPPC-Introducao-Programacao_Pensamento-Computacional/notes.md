@@ -204,6 +204,44 @@ estudantes:
 ---
 
 # AULA 02 - Introdução à Lógica de Programação
+Conceito de lógica aplicada à programação, como um processo de pensamento atrelado ao conceito de algoritmos e resolusção de problemas.
+
+## O que é lógica
+A lógica vem para solucionar problemas.
+
+Problema é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
+
+A lógica parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não.
+
+A lógica é a organização e planejamento das intruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+
+
+## Técnicas de lógica de programação
+Técnica Linear:
+  - modelo tradicional
+  - Não tem vínculo
+    - estrutura hieráquica
+    - programação de computadores
+  - É a execução sequenciada de uma serie de operações
+  - Ordenação de elementos por uma única propriedade onde temos recursos limitados e uma única dimensão
+
+Técnica Estruturada:
+ - Ordenação, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato)
+
+Técnica Modular:
+ - Controlada por um conjunto de regras
+ - Modelo padrão de uma técnica modula:
+  - Dados de entrada
+  - Processo de transformação
+  - Dados de saída
+- Objetivos desta técnica:
+  - Simplificação
+  - Decompor o problema
+  - Verificação do módulo
+
+
+---
+
 # AULA 03 - Fundamentos de algoritmos
 # AULA 04 - Linguagem de programação
 # AULA 05 - Primeiro contato com a programação
