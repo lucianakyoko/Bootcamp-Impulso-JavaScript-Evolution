@@ -17,6 +17,6 @@ export const HeaderContainer = styled.header`
   }
 
   @media screen and (min-width: 1100px) {
-    padding: 0 20rem;
+    padding: 0 32rem;
   }
 `;
