@@ -3,6 +3,7 @@ export const colors = {
   primaryColor500: '#222325',
   primaryColor900: '#000000',
 
+  highlightColor200: '#C6AF05',
   highlightColor400: '#F84B15',
   highlightColor500: '#DE2A10',
 
