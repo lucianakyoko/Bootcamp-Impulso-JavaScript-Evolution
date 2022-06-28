@@ -1,4 +1,4 @@
-import { Evolution } from "../Evolution";
+import { Evolution } from "./Evolution";
 import { Hero } from "./Hero";
 import { HomeContainer } from './style';
 
