@@ -239,9 +239,110 @@ Técnica Modular:
   - Decompor o problema
   - Verificação do módulo
 
-
 ---
 
 # AULA 03 - Fundamentos de algoritmos
+## Tipologia e variáveis
+Funções do computador:
+  - processar as informações que passamos pra ele:
+    - Dados
+    - Instruções
+
+Tipos de dados:
+  - Numéricos
+    - inteiro
+    - reais
+  - Caracteres
+  - Lógicos - booleanos
+
+O que é uma variável:
+ - estrutura mutável
+ - possui variações
+ - é inconstante e incerto
+ - é instável
+
+
+Variável pode assumir qualquer um dos valores de um determinado conjunto de valores
+
+a - b = d
+a + b = c
+
+Regras para nome da variável:
+  - atribuição de um ou mais caracteres
+  - Primeira letra - não número
+  - Sem espaços em branco
+  - Vedado a utilização de palavras reservadas
+  - Caracteres e números
+
+Papéis de uma variável:
+  - Ação: modificação de estado
+  - Controle: vigiada, controle
+
+O que é uma constante:
+  - Inalterável, o que não muda
+  - Aquilo que é fixo ou estável
+  - Invariável
+
+
+## Instruções primitivas
+
+calculos matemáticos:
+  - variáveis
+  - Constantes
+  - Operadores:
+    - Unário
+    - Binário
+
+Definição de Instruções primitivas:
+Instruções são linguens de palavras-chave(vocbulário) de uma determinada linguagem de programação que tem por finalidade comandar um computador que irá tratar os dados
+
+
+## Estruturas condicionais e operadores
+Condição: Estado de uma pessoa ou coisa
+Condicional: Que expressa uma condição ou suposição. Contem ou implica uma suposição ou hipótese
+
+
+
+## Estruturas de repetição
+  Trecho de um programa que se repetem com uma condição de parada
+
+  Vantagens:
+    - redução de linhas
+    - Compreensão facilitada
+    - Redução de erro
+
+## Vetores e matrizes
+Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado
+  - container
+  - Matriz uninidimencional
+
+Matriz: É uma tabela organizada em linhas e colunas no formato m x n, onde m representa o número de linhas e n o número de colunas
+
+
+
+## O que são funções
+ - Subalgoritmo
+ - Método
+ - Bloco
+ - Função
+ - Subprograma
+ - Sub-rotina
+
+ Definição: As funções ou sub-rotinas são blocos de instruções que realizam tarefas específicas. São blocos de instruções, identificados por nomes e parâmetros (assinatura da função)
+
+ - Modularização do programa
+ - Código mais claro e conciso
+ - Reutilização de instruções
+
+## Instruções de entrada/ saída
+Entrada: Consiste na inserção e recebimento de dados do mundo real por meio de ação de alguma interface, seja teclado, mouse, arquivos, entre outros
+
+Saída: Consiste na impressão dos dados do mundo abstrato, digital por meio de ação de alguma interface. Os formatos podem variar desde simples arquivos binários até complexas querys de banco de dados
+
+dados -> processamento -> resultado
+
+
+---
+
 # AULA 04 - Linguagem de programação
 # AULA 05 - Primeiro contato com a programação
