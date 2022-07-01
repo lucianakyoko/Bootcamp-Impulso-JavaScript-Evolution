@@ -345,4 +345,127 @@ dados -> processamento -> resultado
 ---
 
 # AULA 04 - Linguagem de programação
+## Introdução à linguagem de programação
+Problemas computacionais: Objeto de discussão que possui instruções passo a passo que são facilmente resolvíveis em ambiente computacional.
+  - problemas de decisão
+    - carater lógico: sim ou não
+    - problema decidível
+  - problemas de busca
+    - relacionamento binário
+    - recorrente em teoria de grafos
+  - problemas de otimização
+    - maximizar ou minimizar uma função
+  
+O que é uma linguagem de programação?
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+
+código fonte: conjunto de palavras com regras 
+  - tradução
+  - interpretação
+
+
+
+## Como um computador entende o programa?
+Um programa é um amontado de palavras senão for possível que o computador entenda
+
+Processo de tradução:
+  - linguagem de alto nível
+  - compilador: executa analise do programa. Programa Fonte
+  - assembly: linguagem de máquina . Programa Objeto
+
+Tradução:
+  1 - Geração do programa objeto
+  2 - Execução do programa objeto
+
+Interpretação:
+ - Programa fonte executado diretamente
+
+
+## Caraterísticas de um programa
+características de desenvolvimento de programas:
+  - legibilidade - estado que é legível
+    - facilidade de leitura
+    - compreensão
+    - ortogonalidade (coerencia nas instruções)
+    - definição adequada das estruturas
+  - redigibilidade
+    - pode conflitar com a legibildiade
+    - ortogonalidade
+    - simplicidade da escrita (coerencia nas instruções)
+    - suporte à abstração
+    - expressividade (operador ++, uso do for)
+  - confiabilidade: faz o que foi programado para fazer
+    -verificação de tipos
+    - trata exceções
+    - uso de ponteiros
+    - compatibilidade entre compiladores
+  - custo: análise de impacto
+    - Treinamento
+    - Codificação
+    - Compilação
+    - Execução
+    - Infra-estrutura
+
+Outras características:
+  - Atualizações
+  - Uso para IA
+  - Disponibilidade de ferramentas
+  - Comunidade ativa
+  - Adoção pelo mercado
+
+
+## Análises de código
+Análise léxica
+  - Particionar
+  - Classificar
+  - Eliminar
+
+Análise sintática
+Sintaxe: "componente do sistema linguístico que interligam os constituintesda sentença, atribuindo-lhe uma 
+estrutura"
+  - Corretude do programa
+  - Padrão - gramática (Depende da linguagem de programação utilizada)
+
+Semântica: "É o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sina is e símbolos"
+  - Lógica do programa
+  - Erro de semântica: não faz o que é esperado
+
+
+## Paradigmas de programação
+"Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação."
+
+classificação:
+  - Orientação à objeto
+  - Procedural: chamadas sucessivas e procedimentos separados
+  - Funcional: instruções são baseadas em funções
+  - Estruturado: estrutura de bloco aninhados
+  - Computação distribuída: funções executadas de forma independente
+  - Lógico
+
+Paradigma estruturado:
+  - conceitos:
+    - ênfase em sequência
+    - sequencia
+    - decisão: teste lógico
+    - iteração: funções, laços, condições
+  - utilização:
+    - problemas simples e diretos
+    - aprender programação
+
+Orientação à Objetos:
+"Um objeto é descrito por características específicas, comportamentose estado"
+
+  - O que tenho: atributos
+  - sou capaz de fazer: métodos
+  - como faço: estados
+
+  Pilares:
+    - herança
+    - encapsulamento
+    - polimorfismo
+    - abstração
+
+
+---
+
 # AULA 05 - Primeiro contato com a programação
