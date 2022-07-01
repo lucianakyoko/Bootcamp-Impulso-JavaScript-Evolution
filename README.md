@@ -38,7 +38,7 @@ Repositório destinado para as atividades e anotações do bootcamp oferecido pe
 
 ## Modulo III
 ### Dominando a Linguagem de Programação JavaScript:
-| --- | Curso / Desafio | Projeto | Anotacoes | Link | Preview | Status | 
+| --- | Curso / Desafio | Projeto | Anotacoes | Preview | Status | 
 | --- | --- | --- | --- | --- | --- |
 | 3.1 | Curso - IDE Instalacao e configuracao (VSCode) | --- | --- | --- | Pendente |
 | 3.2 | Curso - Introducao ao JavaScript | --- | --- | --- | Pendente |
