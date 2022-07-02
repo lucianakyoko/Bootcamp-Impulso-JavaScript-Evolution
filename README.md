@@ -19,7 +19,7 @@ Repositório destinado para as atividades e anotações do bootcamp oferecido pe
 ### Principios de Desenvolvimento de Software:
 | --- | Curso / Desafio | Projeto | Anotacoes | Preview | Status | 
 | --- | --- | --- | --- | --- | --- | 
-| 1.1 | Curso - Introducao a Programacao e Pensamento Computacional | :x: | [notes](https://github.com/lucianakyoko/Bootcamp-Impulso-JavaScript-Evolution/blob/main/IPPC-Introducao-Programacao_Pensamento-Computacional/notes.md) | --- | Em andamento |
+| 1.1 | Curso - Introducao a Programacao e Pensamento Computacional | :x: | [notes](./IPPC-Introducao-Programacao_Pensamento-Computacional/notes.md) | :x: | concluído :heavy_check_mark: |
 | 1.2 | Curso - Introducao ao Git e ao GitHub | --- | --- | --- | Pendente |
 | 1.3 | Desafio - Criando seu primeiro Repositorio GitHub | --- | --- | --- | Pendente |
 
